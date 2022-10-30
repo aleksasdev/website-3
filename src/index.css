@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary-color: 146, 83, 236
+}
+
 html {
     font-size: 1.1em;
 }
