@@ -17,24 +17,24 @@
 .ribbon {
     position: absolute;
     right: 0;
-    width: 35rem;
+    width: 40rem;
     max-height: 100vh;
 }
 .rod {
     position: absolute;
-    width: 25rem;
+    width: 20rem;
     left: 0;
     top: 15rem;
 }
 .tablet {
     position: absolute;
-    width: 20rem;
+    width: 16rem;
     right: 12rem;
     top: 24rem;
 }
 .weird-shape {
     position: absolute;
-    width: 50rem;
+    width: 40rem;
     bottom: 0;
     z-index: 2;
     margin: auto;
